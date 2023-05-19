@@ -1,5 +1,5 @@
                                              👋 Hi, I’m @Sri-k23
-                                   👀 I’m interested in web development , UI design.
+                                   👀 I’m interested in web development , UX design.
                                   🌱 I’m currently learning MERN stack development.
                     📫 You can reach me on linkedin https://www.linkedin.com/in/sriram-kanakam-582056205/.
 
